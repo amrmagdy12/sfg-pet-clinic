@@ -16,8 +16,8 @@
     <scm>
 
 <!--     <developerConnection>scm:svn:https://AmrMagdy-PC/svn/svn-sfg-pet-clinic</developerConnection>-->
-        <developerConnection>scm:git:https://github.com/amrmagdy12/sfg-pet-clinic.git/tags/sfg-pet-clinic-0.0.1</developerConnection>
-      <tag>sfg-pet-clinic-0.0.1</tag>
+        <developerConnection>scm:git:https://github.com/amrmagdy12/sfg-pet-clinic.git</developerConnection>
+    <tag>sfg-pet-clinic-0.0.1</tag>
   </scm>
 
     <groupId>com.springframework.petclinic</groupId>
