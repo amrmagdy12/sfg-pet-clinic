@@ -1,6 +1,6 @@
 package com.springframework.petclinic.sfgpetclinic.model;
 
-public abstract class Person {
+public abstract class Person extends BaseEntity {
   private String firstName ;
   private String lastName ;
 
